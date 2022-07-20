@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Steve Heim"
-  avatar           : "heim2.jpg"
+  avatar           : "heim2.jpg"  # "caricature.jpg"  # heim2.jpg
   bio              : "heim.steve -at- gmail.com"
-  location         : "Stuttgart"
+  location         : "Cambridge Massachussets, USA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Z9pNoygAAAAJ"
@@ -253,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Zurich # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones # Europe/Zurich
 
 
 # Plugins

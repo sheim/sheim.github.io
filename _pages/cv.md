@@ -9,13 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Academic Experience
+Academic Positions
+======
+
+**Postdoc** Massachussets Institute of Technology, USA  
+07/2021-_ongoing_  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biomimetic Robotics Lab
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: _Prof. Sangbae Kim_
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SNSF Early Postdoc Mobility Fellowship
+
+**Postdoc** Max Planck Institute for Intelligent Systems, Germany  
+04/2020-03/2021  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intelligent Control Systems Group
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: _Prof. Sebastian Trimpe_
+
+Academic Education
 ======
 
 **Graduate Program** Max Planck Institute for Intelligent Systems, Germany  
 12/2016-02/2020  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. defended 20.02.2020 from University of Tübingen, _Magna Cum Laude_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisors: _Dr. Alexander Badri-Spröwitz_  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: _Dr. Alexander Badri-Spröwitz_  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thesis: _Viability in State-Action Space_  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Program: _[International Max Planck Research School for Intelligent Systems](http://imprs.is.mpg.de/)_  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Associated Fellow of the [Max Planck ETH Center for Learning Systems](https://learning-systems.org/)  
