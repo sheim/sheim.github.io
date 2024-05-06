@@ -8,7 +8,7 @@ I've been asked to give some advice, now that I can suddenly be considered a wis
 
 ## First and foremost, know why you're in the game.
 
-Before starting a successful Ph.D. program at [MPI-IS in Japan](https://is.mpg.de/), I spent two years at [Tohoku University in Japan](http://www.cmplx.riec.tohoku.ac.jp/), first as a visiting scholar and then a Ph.D. student.
+Before starting a successful Ph.D. program at [MPI-IS in Germany](https://is.mpg.de/), I spent two years at [Tohoku University in Japan](http://www.cmplx.riec.tohoku.ac.jp/), first as a visiting scholar and then a Ph.D. student.
 Quitting this program is the hardest decision I've made. For a long time, quitting was an option I didn't acknowledge: quitting was failing. Worse, quitting was choosing to fail.
 It took a lot of reflection before I realized quitting was the only option.
 _Why am I doing this?_ It wasn't to get a Ph.D., even though that is the tangible end-goal.
