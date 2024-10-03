@@ -14,10 +14,10 @@ Academic Positions
 
 **Postdoc / Research Scientist** Massachussets Institute of Technology, USA  
 07/2021-_ongoing_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biomimetic Robotics Lab
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: _Prof. Sangbae Kim_
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SNSF Early Postdoc Mobility Fellowship
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Promoted to Research Scientist 09/2024
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biomimetic Robotics Lab  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: _Prof. Sangbae Kim_  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SNSF Early Postdoc Mobility Fellowship  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Promoted to Research Scientist 09/2024  
 
 **Postdoc** Max Planck Institute for Intelligent Systems, Germany  
 04/2020-03/2021  
