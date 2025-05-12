@@ -11,23 +11,18 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "CV"
+    url: https://www.dropbox.com/scl/fi/s1ypdnc52xh19ttuw2rkk/CV_Heim_Steve.pdf?rlkey=70661bo8ojf2k45i19ou7298c&st=8y63ybud&dl=0 # /cv/
+  # - title: "Talks"
+  #   url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
+  # - title: "Teaching"
+  #   url: /teaching/
+
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  # - title: "Guide"
+  #   url: /markdown/
