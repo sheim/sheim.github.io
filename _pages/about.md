@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Broadly, I'm interested in understanding dynamics in biology, and take a _build it to understand it_ approach using tools from robotics, control and machine learning.
+Broadly, I'm interested in understanding dynamics in biology, and take a _build it to understand it_ approach using tools from robotics, control, and machine learning.
 
 I've recently moved to Cornell in Ithaca, NY!
 
